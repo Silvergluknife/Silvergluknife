@@ -14,16 +14,6 @@
 
 ---
 
-### 📊 Моя статистика GitHub
-Здесь отображаются мои реальные достижения и активность:
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silvergluknife&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvergluknife&layout=compact&theme=tokyonight&hide=css,html" />
-</p>
-
----
-
 ### 📫 Как со мной связаться
 * **Сайт:** [https://sdsol.com/](https://sdsol.com/)
 * **Ник:** @Silvergluknife
