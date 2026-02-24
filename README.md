@@ -1,4 +1,4 @@
-# HI, i am Garry DEF! 👋
+# HI, i'm Garry DEF! 👋
 
 ### 👨‍💻 Full-stack Python Developer 
 Based in **Miami**, Working at **SDSol Technologies**.
